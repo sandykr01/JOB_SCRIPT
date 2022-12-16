@@ -1,6 +1,6 @@
 node_modules/
 interview
-test.js
-exam.ts
-test.py
-test.html
+/test.js
+/exam.ts
+/test.py
+/test.html
